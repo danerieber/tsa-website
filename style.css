@@ -47,3 +47,11 @@
 .footer {
     padding: 5px;
 }
+
+.no-margins {
+    margin: 0;
+}
+
+.award-wins {
+    font-size: 15pt;
+}
